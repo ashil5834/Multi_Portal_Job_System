@@ -16,13 +16,13 @@ Update the src/config/database.ts and config/config.json file with your SQL Serv
 
 ### Create a .env File:
 
-PORT=3000
-JWT_SECRET=yourSecretKey
-DB_HOST=localhost
-DB_USER=your_database_user
-DB_PASSWORD=your_database_password
-DB_NAME=your_database_name
-DB_PORT=1433
+- PORT=3000
+- JWT_SECRET=yourSecretKey
+- DB_HOST=localhost
+- DB_USER=your_database_user
+- DB_PASSWORD=your_database_password
+- DB_NAME=your_database_name
+- DB_PORT=1433
 
 ### Run Database Migrations:
 
