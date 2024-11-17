@@ -34,4 +34,4 @@ npm run dev
 
 ### API Documentation:
 
-http://localhost:3000/api-docs
+http://localhost:8000/api-docs
